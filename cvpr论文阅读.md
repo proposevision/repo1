@@ -10,8 +10,6 @@ Authors: xsx,jch,cjs
 
 [TOC]
 
-
-
 # 摘要
 
 开篇点题，层层递进
@@ -159,7 +157,7 @@ Q-att表示在问题Q上没有单词级关注的CAG，CAG w/o G-att去掉了图�
 
 SCI论文中的插图种类很多，常用的有以下几种。
 
-**（1）线形图（line graph）**用于说明两个变量（two
+\*\*（1）线形图（line graph）\*\*用于说明两个变量（two
 variable）之间的定量关系和趋势（trend and relationship between
 data）。自变量（in-dependent variable）标在X轴上（X-axis），因变量（dependent
 variable）标在y轴上（Y-axis），常用于显示连续性变化。线形图中的线条数目一般不超过5条，但无论几条，都应以能够清晰分辨为原则。线形图常见类型。线形图要求：**线条清晰简洁。图中的文字、标值应易于辨认。坐标轴旁的标目中应包含测量单位。表示不同变量的符号容易区分。纵坐标标目的文字方向与坐标轴相垂直。**
